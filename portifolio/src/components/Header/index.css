@@ -1,0 +1,53 @@
+.navbar {
+  background-color: aliceblue;
+  justify-content: center;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  align-items: center;
+  font-size: 35px;
+  width:100vw;
+}
+.logo {
+  height: 55px;
+  margin-left: 20px;
+}
+
+.menu-items {
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+
+.menu-items li {
+  margin-right: 120px;
+}
+
+.header-link {
+  color: #707070;
+  text-decoration: none;
+}
+.header-link:hover {
+  color:black;
+
+}
+.blog-link-container {
+  margin-right: 15px;
+}
+.blog-link-container a {
+
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 20px;
+  padding-left: 10px;
+  background-color:#494848;
+}
+
+.blog-link-container a:hover {
+ color:#707070;
+   background-color:white;
+
+}

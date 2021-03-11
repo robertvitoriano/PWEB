@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="10in" height="10in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10000 10000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#A9ABAE;stroke-width:6.94;stroke-miterlimit:2.61313}
+    .fil0 {fill:#373435}
+    .fil1 {fill:gray;fill-rule:nonzero}
+    .fil2 {fill:url(#id0);fill-rule:nonzero}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="4200.62" y1="4705.5" x2="5151.7" y2="4726.01">
+   <stop offset="0" style="stop-opacity:1; stop-color:#E6E7E8"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FEFEFE"/>
+  </linearGradient>
+ </defs>
+ <g id="circulo">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <ellipse class="fil0 str0" cx="4908.36" cy="4674.4" rx="1300" ry="1192.07"/>
+ </g>
+ <g id="V">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <g id="V_0">
+   <g id="text53" aria-label="V">
+    <polygon id="path1845" class="fil1" points="5062.94,5480.55 4506.3,4022.54 4712.36,4022.54 5174.27,5250.08 5637.16,4022.54 5842.24,4022.54 5286.58,5480.55 "/>
+   </g>
+  </g>
+ </g>
+ <g id="R" >
+  <metadata id="CorelCorpID_2Corel-Layer"/>
+  <g transform="matrix( 1 -855.386 480.528)">
+   <path id="R_1" class="fil2" d="M4295.13 4664.98l401.49 0c44.85,0 84.16,-9.33 117.93,-27.99 33.41,-18.66 59.81,-45.21 78.51,-80.01 18.33,-34.44 28.18,-75.35 29.19,-122.35l1.7 -78.93c1.03,-47.72 -7.04,-89.34 -23.86,-124.86 -17.17,-35.88 -42.04,-63.51 -74.64,-82.52 -32.59,-19.37 -71.49,-29.06 -117.06,-29.06l-401.49 0 3.63 -168.28 391.09 0c83.96,0 156.81,15.79 218.56,47.36 61.75,31.57 108.48,77.14 140.57,136.7 32.08,59.56 47.07,129.53 45.33,210.26l-1.93 89.34c-1.76,81.45 -20.14,152.13 -55.17,212.41 -34.67,60.28 -83.74,106.56 -146.15,138.5 -62.77,32.29 -136.31,48.44 -220.27,48.44l-391.09 0 3.64 -168.99zm-78.25 -714.01l179.76 0 -32.98 1529.55 -179.76 0 32.98 -1529.55zm446.62 835.64l170.39 -48.08 301.54 741.99 -207.38 0 -264.54 -693.91z"/>
+  </g>
+ </g>
+ <g id="V_RESTO">
+  <metadata id="CorelCorpID_3Corel-Layer"/>
+  <g id="V_2">
+   <g id="text53_3" aria-label="V">
+    <polygon id="path1845_4" class="fil1" points="4565.66,4182.71 4498.35,4006.41 4704.41,4006.41 4770.75,4182.71 "/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,66 @@
+.presentation-section  {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.welcome-container{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin-bottom: 10px;
+    color: #21262a;
+    
+    
+}
+.welcome-container h1{
+    font-size: 45px;
+    font-family: 'Righteous';
+    display: block;
+}
+
+.photo-wrapper{
+        margin-top:20px;
+        margin-bottom: 20px;
+}
+.about p{
+    margin-bottom:20px;
+    line-height: 30px;
+    font-weight: 600;
+    font-family: 'Dosis', sans-serif;
+    font-size: 25px;
+    color :#212529;
+
+}
+
+
+
+
+.skills-list-container{
+    width:100%;
+    display: flex;
+}
+.skills{
+    list-style-image: url('../../assets/img/react-reduced-logo.png');
+    margin: 0 auto;
+    
+
+}
+
+.skills-section{
+    background-color: white;
+    text-align: center;
+    height:800px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.skills li{
+    text-align: left;
+    margin-bottom:20px;
+    font-weight: 600;
+       font-size: 25px;
+    font-family: 'Righteous';
+
+
+}
