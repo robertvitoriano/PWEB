@@ -11,11 +11,9 @@ const Skills= ({ match, history }) => {
       </section>
       <section className="division second-division">
       <h1>Hello WOrld</h1>
-
       </section>
       <section className="division third-division">
       <h1>Hello WOrld</h1>
-
       </section>
       </div>
     </>

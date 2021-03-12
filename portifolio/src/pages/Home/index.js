@@ -22,7 +22,6 @@ const Home = ({ match, history }) => {
               Tenho 23 e atualmente estou Cursando o 5º Semestre de Análise e
               Desenvolvimento de Sistemas na Fatec Sorocaba.
             </p>
-
             <p>
               Destas áreas citadas, a que mais me despertou paixão pelo estudo
               foi o <strong>desenvolvimento fullstack</strong>. Ver todos os
